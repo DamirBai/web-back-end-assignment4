@@ -1,9 +1,6 @@
 # Final project
-
-## This is the projecct that combines all the previous projects that i made
-## The project consist of Login Authentification System and 3 components with quotess, musis and movies API
-
-## To start we install the dependencies that project need writing "npm install" in terminal.
-## After installing write in the terminal "npm start/nodemon server.js"
-
-## Only admins can change the main page's slider. Regular users can only see it
+The project consist of Login Authentification System and 3 components with quote, genius and movie API
+## Instructions
+To start we install the dependencies that project need writing "npm install" in terminal.
+After installing write in the terminal "npm start/nodemon server.js" or "node server.js"
+Now, you need to initialise your own MongoDB. Change "localhost"'s port on yours. Connect with your DB.
