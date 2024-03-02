@@ -125,8 +125,8 @@ router.post("/send-email", (req, res) => {
     secure: false,
     port: 587,
     auth: {
-      user: "sceletron45@gmail.com",
-      pass: "hizc rvds ajjz indr",
+      user: "your email",
+      pass: "your secret",
     },
     tls: {
       rejectUnauthorized: false,
